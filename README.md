@@ -1,3 +1,3 @@
 # simplechatroom
-Simple Python Chatroom
+Simple Python Chatroom;
 multithreaded (asynchronous) chat application
